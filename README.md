@@ -9,15 +9,13 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Stack%20Overflow-Follow%20Me-white?style=for-the-badge&logo=stackoverflow">
     <img alt="Static Badge" src="https://img.shields.io/badge/DOcker-Follow%20Me-white?style=for-the-badge&logo=docker">
   </div>
-
-  <!-- Row 3 (D Far Left, E Center, F Far Right) -->
+  
   <div class="brick-row">
     <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-Follow%20Me-white?style=for-the-badge&logo=bluesky">
     <img alt="Static Badge" src="https://img.shields.io/badge/Soundcloud-Follow%20Me-white?style=for-the-badge&logo=Soundcloud">
     <img alt="Static Badge" src="https://img.shields.io/badge/Reddit-Follow%20Me-white?style=for-the-badge&logo=reddit">
   </div>
 </div>
-<hr>
 
 ## 🙋‍♂️ About Me
 <p>
