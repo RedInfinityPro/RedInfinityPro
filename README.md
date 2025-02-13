@@ -1,17 +1,3 @@
-<style>
-  .brick-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-  }
-  .brick-row {
-    display: flex;
-    justify-content: center;
-    gap: 10px; /* Adjusts spacing */
-  }
-</style>
-
 <h1 align="center">RedInfinity_Pro</h1>
 
 <div class="brick-container">
