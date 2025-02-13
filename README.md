@@ -1,44 +1,64 @@
+<style>
+  .brick-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  .brick-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Adjusts spacing */
+  }
+</style>
+
 <h1 align="center">RedInfinity_Pro</h1>
 
-<p align="center">
-  <a href="https://github.com/RedInfinityPro?tab=repositories">
-    <img src="https://img.shields.io/github/followers/RedInfinity_Pro?label=Follow%20Me&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-tower-866149235">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://bsky.app/profile/redinfinitypro.bsky.social">
-    <img src="https://img.shields.io/badge/BlueSky-Connect-blue?style=social&logo=BlueSky" alt="BlueSky">
-  </a>
-  <a href="https://soundcloud.com/daniel-tower-926344088/tracks">
-    <img src="https://img.shields.io/badge/SoundCloud-Connect-orange?style=social&logo=SoundCloud" alt="SoundCloud">
-  </a>
-</p>
+<div class="brick-container">
+  <div class="brick-row">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Github-Follow%20Me-white?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FRedInfinityPro">
+  </div>
 
-As a full-time student with a major in media and communications and a minor in computer information systems, committed to technical proficiency, video production, web development, communication, and programming, aiming to graduate in 2026.
+  <div class="brick-row">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Stack%20Overflow-Follow%20Me-white?style=for-the-badge&logo=stackoverflow">
+    <img alt="Static Badge" src="https://img.shields.io/badge/DOcker-Follow%20Me-white?style=for-the-badge&logo=docker">
+  </div>
+
+  <!-- Row 3 (D Far Left, E Center, F Far Right) -->
+  <div class="brick-row">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-Follow%20Me-white?style=for-the-badge&logo=bluesky">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Soundcloud-Follow%20Me-white?style=for-the-badge&logo=Soundcloud">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Reddit-Follow%20Me-white?style=for-the-badge&logo=reddit">
+  </div>
+</div>
+<hr>
 
 ## 🙋‍♂️ About Me
-- 🎓 I am currently pursuing my **Bachelor's in Science, with a major in Media and Communications with a minor in computer information systems**.
-- 🌱 I’m currently learning **C++, HTML5, C#, JavaScript, CSS**
+<p>
+  As a full-time student with a major in media and communications and a minor in computer information systems, committed to technical proficiency, video production, web development, communication, and programming, aiming to graduate in 2026.
+</p>
+
+- 🎓 I am currently pursuing my **Bachelor's in Human Science**, with a **major in Media and Communications** with a **minor in computer information systems**.
+- 🌱 I’m currently learning **GDScript, Shell, Css, JavaScript**
 - 🎯 My Goal is to Create to as many **open source project** as possible.
-- 📫 How to reach me: **Discord: RedInfinity_Pro**
 
 ## 🎯Goals:
-- Python: **67/100**
+
+- Java: **19/100**
+- Python: **68/100**
+- CSS: **2/100**
 - GDScript: **1/100**
 - Shell: **1/100**
 - C++: **3/100**
 - HTML: **4/100**
 - C#: **2/100**
-- Java: **18/100**
 - Kvlang: **2/100**
-- CSS: **1/100**
 - JavaScript: **1/100**
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Statute8234&theme=radical" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=RedInfinityPro&theme=radical" alt="GitHub Trophies">
 </p>
 
 <p align="center">
@@ -55,8 +75,8 @@ As a full-time student with a major in media and communications and a minor in c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Statute8234&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Statute8234&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=RedInfinityPro&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedInfinityPro&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ## 🔗 Connect with Me
@@ -65,7 +85,7 @@ As a full-time student with a major in media and communications and a minor in c
   <a href="https://discord.com/channels/RedInfinity_Pro">
     <img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord" alt="Discord">
   </a>
-  <a href="mailto:danieltower101501@gmail.com">
+  <a href="mailto:daniel.tower@lander.edu">
     <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail" alt="Gmail">
   </a>
   <a href="https://danieltower101501.wixsite.com/my-site">
