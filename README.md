@@ -38,9 +38,9 @@
   As a full-time student with a major in media and communications and a minor in computer information systems, committed to technical proficiency, video production, web development, communication, and programming, aiming to graduate in 2026.
 </p>
 
-- 🎓 I am currently pursuing my **Bachelor's in Human Science**, with a **major in Media and Communications** with a **minor in computer information systems**.
-- 🌱 I’m currently learning **GDScript, Shell, Css, JavaScript**
-- 🎯 My Goal is to Create to as many **open source project** as possible.
+- 🎓 I am currently pursuing a **Bachelor's in Human Science**, majoring in **Media and Communications**, with a **minor in Computer Information Systems**.  
+- 🌱 Currently learning **GDScript, Shell, CSS, JavaScript**.  
+- 🎯 My goal is to contribute to as many **open-source projects** as possible.  
 
 ## 🎯Goals:
 
@@ -61,6 +61,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RedInfinityPro&theme=radical" alt="GitHub Trophies">
 </p>
 
+## 🚀 Technologies & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
