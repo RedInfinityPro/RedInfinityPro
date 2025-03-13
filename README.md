@@ -7,7 +7,6 @@
 
   <div class="brick-row">
     <img alt="Static Badge" src="https://img.shields.io/badge/Stack%20Overflow-Follow%20Me-white?style=for-the-badge&logo=stackoverflow">
-    <img alt="Static Badge" src="https://img.shields.io/badge/DOcker-Follow%20Me-white?style=for-the-badge&logo=docker">
   </div>
   
   <div class="brick-row">
