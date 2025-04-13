@@ -36,7 +36,7 @@
 - HTML: **4/100**
 - C#: **4/100**
 - Kvlang: **2/100**
-- JavaScript: **1/100**
+- JavaScript: **2/100**
 
 ## 🏆 GitHub Trophies
 
