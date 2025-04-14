@@ -2,6 +2,11 @@
 
 <div class="brick-container">
   <div class="brick-row">
+    <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fhttps%3A%2F%2Fprofile.indeed.com%2Fp%2Fdanielt-ss97plf
+&logo=github&link=https://profile.indeed.com/p/danielt-ss97plf">
+  </div>
+  
+  <div class="brick-row">
     <img alt="Static Badge" src="https://img.shields.io/badge/Github-Follow%20Me-white?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FRedInfinityPro">
   </div>
 
