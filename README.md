@@ -1,24 +1,30 @@
 <h1 align="center">RedInfinity_Pro</h1>
 
+## Programming
 <div class="brick-container">
-  <div class="brick-row">
-    <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fhttps%3A%2F%2Fprofile.indeed.com%2Fp%2Fdanielt-ss97plf
-&logo=github&link=https://profile.indeed.com/p/danielt-ss97plf">
-  </div>
-  
-  <div class="brick-row">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Github-Follow%20Me-white?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FRedInfinityPro">
-  </div>
+    <div class="brick-row">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Github-Follow%20Me-white?style=for-the-badge&logo=github">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Stack%20Overflow-Follow%20Me-white?style=for-the-badge&logo=stackoverflow">
+    </div>
+</div>
 
-  <div class="brick-row">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Stack%20Overflow-Follow%20Me-white?style=for-the-badge&logo=stackoverflow">
-  </div>
-  
-  <div class="brick-row">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-Follow%20Me-white?style=for-the-badge&logo=bluesky">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Soundcloud-Follow%20Me-white?style=for-the-badge&logo=Soundcloud">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Reddit-Follow%20Me-white?style=for-the-badge&logo=reddit">
-  </div>
+## Job
+<div class="brick-container">
+    <div class="brick-row">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Indeed-Resume%20-white?style=for-the-badge&logo=indeed">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Monster-Resume%20-white?style=for-the-badge&logo=monster">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-Resume%20-white?style=for-the-badge&logo=linkedin">
+    </div>
+</div>
+
+## Social Media
+<div class="brick-container">
+    <div class="brick-row">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-Follow%20Me-white?style=for-the-badge&logo=bluesky">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Soundcloud-Follow%20Me-white?style=for-the-badge&logo=soundcloud">
+        <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-Follow%20Me-white?style=for-the-badge&logo=youtube">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Reddit-Follow%20Me-white?style=for-the-badge&logo=reddit">
+    </div>
 </div>
 
 ## 🙋‍♂️ About Me
@@ -71,13 +77,16 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://discord.com/channels/RedInfinity_Pro">
-    <img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord" alt="Discord">
-  </a>
-  <a href="mailto:daniel.tower@lander.edu">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail" alt="Gmail">
-  </a>
-  <a href="https://danieltower101501.wixsite.com/my-site">
-    <img src="https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome" alt="Website">
-  </a>
+    <a href="https://discord.com/channels/RedInfinity_Pro">
+        <img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord" alt="Discord">
+    </a>
+    <a href="mailto:daniel.tower@lander.edu">
+        <img src="https://img.shields.io/badge/-Outlook-333333?style=flat&logo=microsoft-outlook" alt="Mail">
+    </a>
+    <a href="mailto:danieltower101501@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail" alt="Gmail">
+    </a>
+    <a href="https://danieltower101501.wixsite.com/my-site">
+        <img src="https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome" alt="Website">
+    </a>
 </p>
