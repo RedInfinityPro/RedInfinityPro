@@ -61,14 +61,21 @@
         - Repositories: RedInfinityPro/Vending-Machine-Arcade, RedInfinityPro/ArcadePop
         - A web-based arcade immersed in the satirical world of Idiocracy. Host user-generated mini-games within a virtual vending machine interface. Each game is “packaged” as a custom soda—design its branding, name, color, and shape. Earn “BRAWNDO” currency by playing games or trading soda shares on the pop market. Do you serve nostalgia, novelty, or pure chaos?
     # The Bones of Society
-    - Repository: RedInfinityPro/The-Bones-of-Society
-    - The afterlife is real—and it’s bureaucratic. Every arriving soul is randomly cast as either Bone or Flesh. Choose your path: challenge discrimination between humans and aliens, or uncover the secret that binds bone and flesh. Why are some species deemed more “highly intelligent,” and what grants true immortality? Navigate factions, forge alliances, and decide whether to uphold divine order—or dismantle it.
+        - Repository: RedInfinityPro/The-Bones-of-Society
+        - The afterlife is real—and it’s bureaucratic. Every arriving soul is randomly cast as either Bone or Flesh. Choose your path: challenge discrimination between humans and aliens, or uncover the secret that binds bone and flesh. Why are some species deemed more “highly intelligent,” and what grants true immortality? Navigate factions, forge alliances, and decide whether to uphold divine order—or dismantle it.
     # Turbo-Bet-Raceway
-    - Repository: RedInfinityPro/Turbo-Bet-Raceway
-    - Oversee a high-octane automotive organization pushing cars to their mechanical limits. Design your own team flag, blueprint custom vehicles, and bet on performance trials. Will your engineering genius win the day—or will your designs crumble under pressure?
+        - Repository: RedInfinityPro/Turbo-Bet-Raceway
+        - Oversee a high-octane automotive organization pushing cars to their mechanical limits. Design your own team flag, blueprint custom vehicles, and bet on performance trials. Will your engineering genius win the day—or will your designs crumble under pressure?
     
 # Tools:
-# Scirpts:
+    # MoneyClock
+        - Repository: RedInfinityPro/MoneyClock
+        - Simulate a live stock market where each company is represented by a ticking clock displaying its net worth in real time. Watch fortunes rise and fall at a glance—will you buy, sell, or hold?
+    # BookSelf
+        - Repository: RedInfinityPro/BookSelf
+        - A digital bookshelf app that catalogs your physical reading materials. Add titles, track progress, and discover new recommendations based on your existing collection
+    # Movie/Music Recommendation Software
+        - Build a personal media library by logging your DVDs and CDs. Input your favorite shows and albums, and receive intelligent suggestions for what to watch or listen to next—perfect for cinephiles and audiophiles alike.
 
 ## 🎯Goals:
 
