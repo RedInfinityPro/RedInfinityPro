@@ -59,7 +59,7 @@
 ## 🎯Goals:
 
 - Java: **21/100**
-- Python: **73/100**
+- Python: **76/100**
 - CSS: **4/100**
 - GDScript: **1/100**
 - Shell: **1/100**
@@ -67,7 +67,7 @@
 - HTML: **4/100**
 - C#: **4/100**
 - Kvlang: **2/100**
-- JavaScript: **2/100**
+- JavaScript: **4/100**
 
 ## 🏆 GitHub Trophies
 
