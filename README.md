@@ -89,6 +89,7 @@
 - C#: **4/100**
 - Kvlang: **2/100**
 - JavaScript: **4/100**
+- Groovy: **1/100**
 
 ## 🏆 GitHub Trophies
 
