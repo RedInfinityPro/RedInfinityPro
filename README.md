@@ -36,6 +36,20 @@
 - 🌱 Currently learning **GDScript, Shell, CSS, JavaScript**.  
 - 🎯 My goal is to contribute to as many **open-source projects** as possible.  
 
+## 🎯Goals:
+
+- Java: **24/100**
+- Groovy: **1/100**
+- Python: **76/100**
+- CSS: **4/100**
+- GDScript: **1/100**
+- Shell: **1/100**
+- C++: **3/100**
+- HTML: **4/100**
+- C#: **4/100**
+- Kvlang: **2/100**
+- JavaScript: **4/100**
+
 ## 📂 Project Ideas
 # Games:
     # Hotel
@@ -76,20 +90,6 @@
         - A digital bookshelf app that catalogs your physical reading materials. Add titles, track progress, and discover new recommendations based on your existing collection
     # Movie/Music Recommendation Software
         - Build a personal media library by logging your DVDs and CDs. Input your favorite shows and albums, and receive intelligent suggestions for what to watch or listen to next—perfect for cinephiles and audiophiles alike.
-
-## 🎯Goals:
-
-- Java: **21/100**
-- Python: **76/100**
-- CSS: **4/100**
-- GDScript: **1/100**
-- Shell: **1/100**
-- C++: **3/100**
-- HTML: **4/100**
-- C#: **4/100**
-- Kvlang: **2/100**
-- JavaScript: **4/100**
-- Groovy: **1/100**
 
 ## 🏆 GitHub Trophies
 
