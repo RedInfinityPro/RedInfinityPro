@@ -23,7 +23,6 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-Follow%20Me-white?style=for-the-badge&logo=bluesky">
         <img alt="Static Badge" src="https://img.shields.io/badge/Soundcloud-Follow%20Me-white?style=for-the-badge&logo=soundcloud">
         <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-Follow%20Me-white?style=for-the-badge&logo=youtube">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Reddit-Follow%20Me-white?style=for-the-badge&logo=reddit">
     </div>
 </div>
 
