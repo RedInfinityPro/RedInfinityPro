@@ -1,35 +1,20 @@
-<h1 align="center">RedInfinity_Pro</h1>
+# RedInfinity_Pro
 
 ## Programming
-<div class="brick-container">
-    <div class="brick-row">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Github-Follow%20Me-white?style=for-the-badge&logo=github">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Stack%20Overflow-Follow%20Me-white?style=for-the-badge&logo=stackoverflow">
-    </div>
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-RedInfinity_Pro-181717?style=for-the-badge&logo=github&logoColor=black)
+![Stackoverflow](https://img.shields.io/badge/Stackoverflow-RedInfinity_Pro-181717?style=for-the-badge&logo=stackoverflow&logoColor=orange)
 
 ## Job
-<div class="brick-container">
-    <div class="brick-row">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Indeed-Resume%20-white?style=for-the-badge&logo=indeed">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Monster-Resume%20-white?style=for-the-badge&logo=monster">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-Resume%20-white?style=for-the-badge&logo=linkedin">
-    </div>
-</div>
+![Indeed](https://img.shields.io/badge/Indeed-Resume-181717?style=for-the-badge&logo=indeed&logoColor=blue)
+![Linkedin](https://img.shields.io/badge/Linkedin-Resume-181717?style=for-the-badge&logo=linkedin&logoColor=blue)
 
 ## Social Media
-<div class="brick-container">
-    <div class="brick-row">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-Follow%20Me-white?style=for-the-badge&logo=bluesky">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Soundcloud-Follow%20Me-white?style=for-the-badge&logo=soundcloud">
-        <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-Follow%20Me-white?style=for-the-badge&logo=youtube">
-    </div>
-</div>
+![Bluesky](https://img.shields.io/badge/Bluesky-RedInfinity_Pro-181717?style=for-the-badge&logo=bluesky&logoColor=blue)
+![Soundcloud](https://img.shields.io/badge/Soundcloud-RedInfinity_Pro-181717?style=for-the-badge&logo=soundcloud&logoColor=orange)
+![Youtube](https://img.shields.io/badge/Youtube-RedInfinity_Pro-181717?style=for-the-badge&logo=youtube&logoColor=red)
 
 ## 🙋‍♂️ About Me
-<p>
-  As a full-time student with a major in media and communications and a minor in computer information systems, committed to technical proficiency, video production, web development, communication, and programming, aiming to graduate in 2026.
-</p>
+As a full-time student with a major in media and communications and a minor in computer information systems, committed to technical proficiency, video production, web development, communication, and programming, aiming to graduate in 2026.
 
 - 🎓 I am currently pursuing a **Bachelor's in Human Science**, majoring in **Media and Communications**, with a **minor in Computer Information Systems**.  
 - 🌱 Currently learning **GDScript, Shell, CSS, JavaScript**.  
@@ -96,17 +81,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RedInfinityPro&theme=radical" alt="GitHub Trophies">
 </p>
 
-## 🚀 Technologies & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
-</p>
+## 🚀 Technologies & Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-Code-478CBF?style=for-the-badge&logo=none-code&logoColor=blue)
+![Visual Studio](https://img.shields.io/badge/Visual-Studio-478CBF?style=for-the-badge&logo=none&logoColor=purple)
+![Godot](https://img.shields.io/badge/Godot-Engine-478CBF?style=for-the-badge&logo=none&logoColor=blue)
+![Github](https://img.shields.io/badge/Github-Desktop-478CBF?style=for-the-badge&logo=none&logoColor=purple)
 
 ## 📊 GitHub Stats
 
