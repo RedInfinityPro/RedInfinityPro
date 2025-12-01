@@ -90,20 +90,24 @@ As a full-time student with a major in media and communications and a minor in c
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RedInfinityPro&show_icons=true&theme=radical" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedInfinityPro&layout=compact&theme=radical" alt="Top Languages">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RedInfinityPro&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedInfinityPro&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ## 🔗 Connect with Me
 
-<a href="https://discord.com/channels/RedInfinity_Pro">
-    <img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord" alt="Discord">
-</a>
-<a href="mailto:daniel.tower@lander.edu">
-    <img src="https://img.shields.io/badge/-Outlook-333333?style=flat&logo=microsoft-outlook" alt="Mail">
-</a>
-<a href="mailto:danieltower101501@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail" alt="Gmail">
-</a>
-<a href="https://danieltower101501.wixsite.com/my-site">
-    <img src="https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome" alt="Website">
-</a>
+<p align="center">
+    <a href="https://discord.com/channels/RedInfinity_Pro">
+        <img src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord" alt="Discord">
+    </a>
+    <a href="mailto:daniel.tower@lander.edu">
+        <img src="https://img.shields.io/badge/-Outlook-333333?style=flat&logo=microsoft-outlook" alt="Mail">
+    </a>
+    <a href="mailto:danieltower101501@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail" alt="Gmail">
+    </a>
+    <a href="https://danieltower101501.wixsite.com/my-site">
+        <img src="https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome" alt="Website">
+    </a>
+</p>
