@@ -22,10 +22,10 @@ As a full-time student with a major in media and communications and a minor in c
 
 ## 🎯Goals:
 
-- Java: **24/100**
+- Java: **33/100**
 - Groovy: **1/100**
 - Python: **76/100**
-- CSS: **4/100**
+- CSS: **5/100**
 - GDScript: **1/100**
 - Shell: **1/100**
 - C++: **3/100**
@@ -33,6 +33,7 @@ As a full-time student with a major in media and communications and a minor in c
 - C#: **4/100**
 - Kvlang: **2/100**
 - JavaScript: **4/100**
+- Groovy: **1/100**
 
 ## 📂 Project Ideas (Free to use)
 # Games:
