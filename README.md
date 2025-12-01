@@ -91,6 +91,7 @@ As a full-time student with a major in media and communications and a minor in c
 ## 📊 GitHub Stats
 
 <p align="center">
+    [![RedInfinityPro GitHub stats](https://github-readme-stats.vercel.app/api?username=RedInfinityPro&show_icons=true&theme=radical)](https://github.com/RedInfinityPro)
   <img src="https://github-readme-stats.vercel.app/api?username=RedInfinityPro&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedInfinityPro&layout=compact&theme=radical" alt="Top Languages">
 </p>
