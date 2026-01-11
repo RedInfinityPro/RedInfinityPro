@@ -29,7 +29,7 @@ As a full-time student with a major in media and communications and a minor in c
 - GDScript: **1/100**
 - Shell: **1/100**
 - C++: **3/100**
-- HTML: **4/100**
+- HTML: **5/100**
 - C#: **4/100**
 - Kvlang: **2/100**
 - JavaScript: **4/100**
