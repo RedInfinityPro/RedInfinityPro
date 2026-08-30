@@ -4,8 +4,7 @@
 ![Bluesky](https://img.shields.io/badge/Bluesky-RedInfinity_Pro-181717?style=for-the-badge&logo=bluesky&logoColor=blue)
 
 # RedInfinity_Pro
-As a full-time student pursuing a bachelor's degree in Human Sciences, majoring in Media and Communications, and minoring in Public Relations. Committed to technical proficiency, video production, web development, communication, and programming, aiming to graduate in 2026.
-
+Bachelor's degree in Human Sciences, with a major in Communications and Public Relations. Committed to technical proficiency in video production, web development, and programming; graduating in 2026.
 
 ## Table of Contents
 - [Education](##Education)
@@ -15,7 +14,7 @@ As a full-time student pursuing a bachelor's degree in Human Sciences, majoring 
 - [GitHub Stats](##GitHub_Stats)
 
 ## Education
-- 🎓 I am currently pursuing a **Bachelor's in Human Science**, majoring in **Media and Communications**, with a minor in **Public Relations**. 
+- 🎓 I currently have a **Bachelor's in Human Science**, majoring in **Media and Communications**, with a minor in **Public Relations**. 
 - 🌱 Currently learning **GDScript, Shell, CSS, JavaScript**. 
 - 🎯 My goal is to contribute to as many **open-source projects** as possible.
 
