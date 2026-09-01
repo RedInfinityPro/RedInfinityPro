@@ -4,7 +4,7 @@
 ![Bluesky](https://img.shields.io/badge/Bluesky-RedInfinity_Pro-181717?style=for-the-badge&logo=bluesky&logoColor=blue)
 
 # RedInfinity_Pro
-Bachelor's degree in Human Sciences, with a major in Communications and Public Relations. Committed to technical proficiency in video production, web development, and programming; graduating in 2026.
+Bachelor of Science, with a Major in Media & Communications in Public Relations. Committed to technical proficiency in video production, web development, and programming; graduating in 2026.
 
 ## Table of Contents
 - [Education](##Education)
